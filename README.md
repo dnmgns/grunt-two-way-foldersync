@@ -9,6 +9,8 @@
 
 ## Configuration
 foldersyncsettings.json is the default settings file
+
 custom_foldersyncsettings.json is the custom settings file
+
 
 The default settings may be overwritten with custom settings. Note that any array in your configuration files (such as the default files array) will get concatinated with any array in your custom configuration file.
