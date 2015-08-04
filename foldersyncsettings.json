@@ -1,0 +1,10 @@
+{
+  "watchPathA": "/dev/foldersync/a",
+  "watchPathB": "/dev/foldersync/b",
+  "syncPathA": "b",
+  "syncPathB": "a",
+  "files": [
+                "**/a.zip",
+                "**/b.txt"
+            ]
+}

@@ -1,0 +1,8 @@
+{
+    "watchPathA": "/some/custom/path/",
+    "watchPathB": "/another/custom/path/",
+    "files": [
+                "**/c.zip", 
+                "**/d.txt"
+            ]
+}
