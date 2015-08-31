@@ -1,4 +1,3 @@
-/// <vs AfterBuild='default' SolutionOpened='default' />
 module.exports = function (grunt) {
     /*
     * Function for recursively merging properties of the two configuration objects
