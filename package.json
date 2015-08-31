@@ -1,6 +1,6 @@
 {
   "name": "foldersync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Two way folder sync",
   "main": "Gruntfile.js",
@@ -8,7 +8,8 @@
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-watch": "^0.6.1",
-    "grunt-sync": "^0.2.0"
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-newer": "^1.1.1"
   },
   "devDependencies": {},
   "scripts": {
